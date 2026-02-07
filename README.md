@@ -1,1 +1,1 @@
-# repo-LLM-Playground-GHCP
+# Memory Game using GHCP
